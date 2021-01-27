@@ -29,7 +29,6 @@ The Data used for this project is Lending Club Loan Data available from their we
 <p align="left">
 <img src="accepted_int_rate.png" width="350" height="350">      
 </p>
-The average interest rate of accepted loans is 13.1%.
 <div style="text-align: left"> The average interest rate of accepted loans is 13.1%. </div>
 
 <p align="center">
@@ -40,7 +39,6 @@ The average interest rate of accepted loans is 13.1%.
 <p align="right">
 <img src="credit_score.png" width="350" height="350">
 </p>
-The average fico credit score for individuals of accepted loans is 703.
 <div style="text-align: right"> The average fico credit score for individuals of accepted loans is 703. </div>
 
 
